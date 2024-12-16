@@ -105,3 +105,4 @@ The Dockerfile and associated scripts and documentation in this project are rele
 [stoe/actions](https://github.com/stoe/actions).
 + It was used by ansible for lint checks at [ansible/ansible-lint-action](https://github.com/ansible/ansible-lint-action.git)
 + It was modified from [L3D](https://github.com/do1jlr) to check ansible roles.
++ It was modified by [Jakuje](https://github.com/Jakuje/) for Centos 10 Stream.
